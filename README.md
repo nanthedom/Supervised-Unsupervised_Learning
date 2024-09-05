@@ -19,17 +19,17 @@ Repository ini berisi implementasi algoritma _machine learning from scratch_ den
     </br>Buka file `src\doe.ipynb`, lalu lakukan `Run All` sehingga semua cell di _notebook_ berhasil dijalankan.
 
 ## Supervised Learning (Bagian 2)
-- [v] KNN
-- [v] Logistic Regression
-- [v] Gaussian Naive Bayes
-- [v] CART
-- [v] SVM
-- [x] ANN
+- [x] KNN
+- [x] Logistic Regression
+- [x] Gaussian Naive Bayes
+- [x] CART
+- [x] SVM
+- [ ] ANN
 
 ## Unsupervised Learning (Bagian 3)
-- [v] K-MEANS
-- [v] DBSCAN
-- [v] PCA
+- [x] K-MEANS
+- [x] DBSCAN
+- [x] PCA
 
 ### Bonus yang diimplementasikan:
 - Implementasi metode inisialisasi k-means++, kemudian jadikan metode inisialisasi sebagai parameter input
